@@ -17,10 +17,13 @@ We implement three models, including Classification (ResNet50), Segmentation (mo
   <img src="Figure/ResNet50.png" width="800" alt="accessibility text">
   <img src="Figure/mUNet.png" width="800" alt="accessibility text">
 </p>
+
 Figure 2. Architecture of the proposed model mUnet with 1 output branch.
+
 <p align="center">
   <img src="Figure/umUNet.png" width="800" alt="accessibility text">
 </p>
+
 Figure 3. Architecture of the proposed model umUnet with 2 output branches.
 
 ## Results
