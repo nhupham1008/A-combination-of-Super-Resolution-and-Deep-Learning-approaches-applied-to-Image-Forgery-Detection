@@ -7,9 +7,9 @@ The dataset with the number of images we used in the project is presented in the
 </p>
 
 ## Architecture
-We implement three models, including: Classification (ResNet50), Segmentation (modified UNet) and Unification (unified modified UNet).
+We implement three models, including Classification (ResNet50), Segmentation (modified UNet) and Unification (unified modified UNet).
 + ResNet50 is chosen for the classification task. The ResNet50 architecture is shown in Figure 1.
-+ Segmentation network is plotted in Figure 2.
++ The segmentation network is plotted in Figure 2.
 + A proposed model that merges the two models above into a single model called umUNet (unified modified UNet). umUNet is depicted in Figure 3.
 
 <p align="center">
